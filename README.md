@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! We are SteelCodeTeam.</h2>
+<p>We are a small development team of four people, we develop a bit random stuff.</p>
+
+<p>We hope you enjoy our projects!</p>
 
 ###
 
@@ -8,7 +11,7 @@
 </div>
 
 ###
-
+<h2 align="center"> Our Skills </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -40,6 +43,7 @@
 
 ###
 
+<h2 align="center"> Our Social Media </h2>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -52,7 +56,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -64,14 +68,3 @@
 
 <img src="https://raw.githubusercontent.com/steelcodeteam/steelcodeteam/blob/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
