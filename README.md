@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! We are SteelCodeTeam.</h2>
+<h1 align="left">SteelCodeTeam</h2>
 <p>We are a small development team of four people, we develop a bit random stuff.</p>
 
 <p>We hope you enjoy our projects!</p>
@@ -7,6 +7,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Our Stats&username=steelcodeteam" height="150" alt="stats graph"  />
+  ......
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=steelcodeteam" height="150" alt="languages graph"  />
 </div>
 
@@ -64,7 +66,4 @@
 
 <img src="https://raw.githubusercontent.com/steelcodeteam/steelcodeteam/blob/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/steelcodeteam/steelcodeteam/blob/output/snake.svg" alt="Snake animation" />
 
