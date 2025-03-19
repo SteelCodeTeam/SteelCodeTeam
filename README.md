@@ -112,6 +112,7 @@
   <img style="margin: 3px" src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge" alt="total downloads badge" height="40" />
   <img style="margin: 3px" src="https://img.shields.io/badge/Community_Members-300%2B-purple?style=for-the-badge" alt="community members badge" height="40" />
   <img style="margin: 3px" src="https://img.shields.io/badge/Contributors-20%2B-orange?style=for-the-badge" alt="contributors badge" height="40" />
+  <img style="margin: 3px" src="https://img.shields.io/badge/Projects-50%2B-green?style=for-the-badge" alt="projects badge" height="40" />
   <img style="margin: 3px" src="https://img.shields.io/badge/Commits-750%2B-blue?style=for-the-badge" alt="commits badge" height="40" />
 </div>
 
