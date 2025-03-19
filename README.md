@@ -103,8 +103,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudahee&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tobibusfate&show_icons=true&count_private=true&hide_border=true" align="left" /> 
+  
 <div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobibusfate&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+  </div>
 <br/>  
 <br/>  
 <br/>  
@@ -115,9 +118,6 @@
 </div>  
 
 <div>
-<br/>  
-<br/>  
-<br/>  
 </div>
 
 ## Our Stats
