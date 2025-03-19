@@ -108,8 +108,8 @@
 
 
 ## Visitor Counter
-<div align="center" style="font-size: 20px; margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=steelcodeteam&&style=flat-square&color=blue&label=Visitors" alt="visitor badge" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />
+<div align="center">
+  <img src="https://img.shields.io/badge/visits-%E2%9C%94-blue?style=for-the-badge&logo=github&logoColor=white" alt="visitor counter" height="60" />
 </div>
   
 
@@ -141,7 +141,8 @@
 </a>
 <a href="https://www.youtube.com/user/steelcodeteam" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  ç
+</a>
+  <br/>
   <div align="center">
   <b>Our most important medias:</b>
   </div>
