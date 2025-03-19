@@ -110,7 +110,7 @@
 ## Our Stats
 <div align="center">
   <img src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge&logo=download&logoColor=white" alt="total downloads badge" height="40" />
-  <img src="https://img.shields.io/badge/Users-1000%2B-purple?style=for-the-badge&logo=users&logoColor=white" alt="community users badge" height="60" />
+  <img src="https://img.shields.io/badge/Community_Members-1000%2B-purple?style=for-the-badge&logo=users&logoColor=white" alt="community members badge" height="40" />
 
 </div>
 
