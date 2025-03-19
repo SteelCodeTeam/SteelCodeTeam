@@ -105,14 +105,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tobibusfate&show_icons=true&count_private=true&hide_border=true" align="left" />  
 </div>  
 
-
-<br/>  
-
-
+<div>
 <br/>  
 <br/>  
 <br/>  
 <br/>  
+<br/>  
+</div>
 ## Our Stats
 <div align="center">
   <div align="center">
