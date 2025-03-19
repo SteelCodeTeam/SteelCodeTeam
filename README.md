@@ -107,11 +107,10 @@
 <br/>  
 
 
-## Visitor Counter
+## Downloads Counter
 <div align="center">
-  <img src="https://img.shields.io/badge/visits-%E2%9C%94-blue?style=for-the-badge&logo=github&logoColor=white" alt="visitor counter" height="60" />
+  <img src="https://img.shields.io/badge/Visitors-1000%2B-green?style=for-the-badge" alt="visitor badge" height="60" />
 </div>
-  
 
 <br/>  
 
