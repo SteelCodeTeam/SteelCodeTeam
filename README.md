@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Our Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -110,6 +110,8 @@
 ## Visitor Counter  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=steelcodeteam&&style=flat-square" align="center" />
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steelcodeteam&show_icons=true&theme=dark&locale=en" alt="steelcodeteam" /></p>
 </div>  
   
 
@@ -128,7 +130,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with us  
 <div align="center">
 <a href="https://github.com/steelcodeteam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -143,7 +145,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  ç
   <div align="center">
-  #### Our most important medias:
+  <b>Our most important medias:</b>
   </div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -152,7 +154,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
