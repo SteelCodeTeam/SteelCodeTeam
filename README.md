@@ -109,8 +109,13 @@
 
 ## Our Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge&logo=download&logoColor=white" alt="total downloads badge" height="40" />
-  <img src="https://img.shields.io/badge/Community_Members-1000%2B-purple?style=for-the-badge&logo=users&logoColor=white" alt="community members badge" height="40" />
+  <img style="margin: 3px" src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge&logo=download&logoColor=white" alt="total downloads badge" height="40" />
+
+  <img style="margin: 3px" src="https://img.shields.io/badge/Community_Members-300%2B-purple?style=for-the-badge&logo=users&logoColor=white" alt="community members badge" height="40" />
+  <img style="margin: 3px" src="https://img.shields.io/badge/Contributors-20%2B-orange?style=for-the-badge&logo=github&logoColor=white" alt="contributors badge" height="40" />
+  <img style="margin: 3px" src="https://img.shields.io/badge/Commits-750%2B-blue?style=for-the-badge&logo=git&logoColor=white" alt="commits badge" height="40" />
+
+
 
 </div>
 
