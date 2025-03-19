@@ -3,7 +3,8 @@
 </div>  
   
 
-# <div align="center">We're SteelCodeTeam, a small development team, we develop a bit videogame related stuff</div>  
+# <div align="center">We're SteelCodeTeam</div>  
+### we're a small development team, we develop a bit videogame related stuff
   
 
 - 🔭 We're working on [Metallics Arts](https://github.com/steelcodeteam/metallics-arts) right now!  
