@@ -117,7 +117,7 @@
     <img style="margin: 1px padding-left:20px" src="https://img.shields.io/badge/Contributors-20%2B-orange?style=for-the-badge" alt="contributors badge" height="40" />
   </div>
   <div align="center">
-    <img style="margin: 1px padding-left:20px" src="https://img.shields.io/badge/Projects-5%2B-green?style=for-the-badge" alt="projects badge" height="40" />
+    <img style="margin: 1px; padding-left: 20px;" src="https://img.shields.io/badge/Active%20Projects-5%2B-green?style=for-the-badge" alt="active projects badge" height="40" />
     <img style="margin: 1px padding-left:20px" src="https://img.shields.io/badge/Commits-750%2B-pink?style=for-the-badge" alt="commits badge" height="40" />
   </div>
 </div>
