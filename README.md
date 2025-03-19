@@ -109,8 +109,6 @@
 <br/>  
 <br/>  
 <br/>  
-<br/>  
-<br/>  
 </div>
 
 ## Our Stats
