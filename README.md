@@ -107,9 +107,11 @@
 <br/>  
 
 
-## Total Downloads
+## Our Stats
 <div align="center">
   <img src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge&logo=download&logoColor=white" alt="total downloads badge" height="60" />
+  <img src="https://img.shields.io/badge/Comunidad-1000%2B-purple?style=for-the-badge&logo=users&logoColor=white" alt="community badge" height="60" />
+
 </div>
 
 <br/>  
