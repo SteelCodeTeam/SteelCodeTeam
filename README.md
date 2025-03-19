@@ -122,19 +122,6 @@
 
 <br/>  
 
-
-## Support Me  
-<div align="center">
-            <a href="https://ko-fi.com/steelcodeteam" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>  
-
-<br/>  
-
-
 ## Connect with us  
 <div align="center">
 <a href="https://github.com/steelcodeteam" target="_blank">
@@ -160,3 +147,16 @@
 </div>  
 
 <br />
+
+## Support us  
+<div align="center">
+            <a href="https://ko-fi.com/steelcodeteam" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a>
+  <p>You can donate to us on Twitch or Ko-fi, but you won't receive anything in return. You will simply be helping us with the maintenance of the projects, which currently have an approximate cost of 120€. We will refund any donations that exceed our annual budget since we are not profit-driven.</p>
+</div>  
+
+<br/>  
