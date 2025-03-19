@@ -107,12 +107,10 @@
 <br/>  
 
 
-## Visitor Counter  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=steelcodeteam&&style=flat-square" align="center" />
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steelcodeteam&show_icons=true&theme=dark&locale=en" alt="steelcodeteam" /></p>
-</div>  
+## Visitor Counter
+<div align="center" style="font-size: 20px; margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=steelcodeteam&&style=flat-square&color=blue&label=Visitors" alt="visitor badge" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />
+</div>
   
 
 <br/>  
