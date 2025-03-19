@@ -107,9 +107,9 @@
 <br/>  
 
 
-## Downloads Counter
+## Total Downloads
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitors-1000%2B-green?style=for-the-badge" alt="visitor badge" height="60" />
+  <img src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge&logo=download&logoColor=white" alt="total downloads badge" height="60" />
 </div>
 
 <br/>  
