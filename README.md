@@ -160,7 +160,7 @@
             </a>
   <br/>
    <br/>
-  <i>You can donate to us on Twitch or Ko-fi, but you won't receive anything in return. You will simply be helping us with the maintenance of the projects, which currently have an approximate cost of 120€. We will refund any donations that exceed our annual budget since we are not profit-driven.</i>
+  <i>You can donate to us on Twitch or Ko-fi, but you won't receive anything in return. You will simply be helping us with the maintenance of the projects, which currently have an approximate cost of 120€. We will refund any donations that exceed our annual budget since we are not profit-driven. Thank you for all your support! :)</i>
 </div>  
 
 <br/>  
