@@ -1,175 +1,181 @@
+<!-- STEELCODE TEAM — README -->
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-# <div align="center">We're SteelCodeTeam</div>  
-### we're a small development team, we develop a bit videogame related stuff
+```
+███████╗████████╗███████╗███████╗██╗      ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝╚══██╔══╝██╔════╝██╔════╝██║     ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+███████╗   ██║   █████╗  █████╗  ██║     ██║     ██║   ██║██║  ██║█████╗  
+╚════██║   ██║   ██╔══╝  ██╔══╝  ██║     ██║     ██║   ██║██║  ██║██╔══╝  
+███████║   ██║   ███████╗███████╗███████╗╚██████╗╚██████╔╝██████╔╝███████╗
+╚══════╝   ╚═╝   ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝╚══════╝
+                                                                    TEAM_
+```
 
---------
+**`// small dev team · open source · game mods · community driven`**
 
-- 🔭 We're working on [Metallics Arts](https://github.com/steelcodeteam/metallics-arts) right now!  
-  
+<br/>
 
-- ❓ We're support open source, just ask us about it!  
-  
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-2C2C2A?style=for-the-badge&labelColor=444441)](https://github.com/steelcodeteam)
+[![Main Project](https://img.shields.io/badge/MAIN__PROJECT-Metallics_Arts-2C2C2A?style=for-the-badge&labelColor=444441)](https://github.com/steelcodeteam/metallics-arts)
+[![Platform](https://img.shields.io/badge/PLATFORM-NeoForge-2C2C2A?style=for-the-badge&labelColor=444441)](https://github.com/steelcodeteam)
 
-- ⚡ Need something? Want us to update or port a project? Ask on our Discord!  
-  
-
-<br/>  
-
-
-## Our Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## `$ ./stats.sh`
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudahee&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" />
-<div>
-  <br/> 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobibusfate&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" /> 
-</div>
-  <br/> 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steelcodeteam&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" /> 
+
+| Downloads | Community | Commits | Active Projects |
+|:---------:|:---------:|:-------:|:---------------:|
+| **20,000+** | **300+** | **750+** | **5+** |
+
 </div>
 
-## Our Stats
+---
+
+## `$ ls projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ Metallics Arts
+> Mistborn magic systems — fully implemented in Minecraft.
+> Allomancy, Feruchemy & Hemalurgy as real gameplay mechanics.
+
+![Java](https://img.shields.io/badge/Java-2C2C2A?style=flat-square)
+![NeoForge](https://img.shields.io/badge/NeoForge-444441?style=flat-square)
+![Status](https://img.shields.io/badge/active-638522?style=flat-square)
+
+[→ View project](https://github.com/steelcodeteam/metallics-arts)
+
+</td>
+<td width="50%" valign="top">
+
+### ⬡ SimpleAuths
+> Authentication mod with login/register commands, IP-based multi-account controls, and JPA/Hibernate persistence.
+
+![Java](https://img.shields.io/badge/Java-2C2C2A?style=flat-square)
+![NeoForge](https://img.shields.io/badge/NeoForge-444441?style=flat-square)
+![Status](https://img.shields.io/badge/active-638522?style=flat-square)
+
+[→ View project](https://github.com/steelcodeteam)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ SteelCodeNews
+> Monthly community newsletter. FOSS philosophy, esoteric languages, hardware libre, and open source culture.
+
+![Community](https://img.shields.io/badge/Community-2C2C2A?style=flat-square)
+![Status](https://img.shields.io/badge/monthly-638522?style=flat-square)
+
+[→ Read newsletter](https://github.com/steelcodeteam)
+
+</td>
+<td width="50%" valign="top">
+
+### ⬡ Open Requests
+> Need something ported or updated? We support open source. Drop by the Discord and we'll talk.
+
+![Open](https://img.shields.io/badge/Requests-Open-2C2C2A?style=flat-square)
+
+[→ Join Discord](https://discord.gg/YHqMTRYAMT)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat stack.txt`
+
+**Core**
+
+![Java](https://img.shields.io/badge/Java-444441?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-444441?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-444441?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-444441?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-444441?style=flat-square&logo=csharp&logoColor=white)
+
+**Backend & Data**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-444441?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-444441?style=flat-square&logo=apachekafka&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-444441?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-444441?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-444441?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444441?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-444441?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-444441?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-444441?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-444441?style=flat-square&logo=typescript&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-444441?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-444441?style=flat-square&logo=linux&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-444441?style=flat-square&logo=gitlab&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-444441?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-444441?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-444441?style=flat-square&logo=nginx&logoColor=white)
+
+**3D & Game**
+
+![Blender](https://img.shields.io/badge/Blender-444441?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-444441?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## `$ git log --oneline --all`
+
+```
+a3f1c2e (HEAD) feat: implement Bendalloy bubble time dilation   [metallics-arts]
+9d8b47a feat: beacon-style rendering for allomantic pulses       [metallics-arts]
+c12e93f fix: Copper cloud emotion dampening effect               [metallics-arts]
+5a7f21b feat: IP-based multi-account restriction logic           [simpleauths]
+3e9d06c docs: SteelCodeNews vol.12 — FOSS vs FLOSS deep dive     [newsletter]
+```
+
+---
+
+## `$ cat github_stats.md`
+
 <div align="center">
-  <div align="center">
-    <img style="margin: 1px; padding-left:20px" src="https://img.shields.io/badge/Downloads-20000%2B-blue?style=for-the-badge" alt="total downloads badge" height="40" />
-    <img style="margin: 1px padding-left:20px" src="https://img.shields.io/badge/Community_Members-300%2B-purple?style=for-the-badge" alt="community members badge" height="40" />
-    <img style="margin: 1px padding-left:20px" src="https://img.shields.io/badge/Contributors-20%2B-orange?style=for-the-badge" alt="contributors badge" height="40" />
-  </div>
-  <div align="center">
-    <img style="margin: 1px; padding-left: 20px;" src="https://img.shields.io/badge/Active%20Projects-5%2B-green?style=for-the-badge" alt="active projects badge" height="40" />
-    <img style="margin: 1px padding-left:20px" src="https://img.shields.io/badge/Commits-750%2B-pink?style=for-the-badge" alt="commits badge" height="40" />
-  </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rudahee&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=2C2C2A&title_color=B4B2A9&text_color=888780&icon_color=B4B2A9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=steelcodeteam&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=2C2C2A&title_color=B4B2A9&text_color=888780&icon_color=B4B2A9" height="160"/>
+
 </div>
 
-<br/>  
+---
 
-## Connect with us  
+## `$ ./connect.sh`
+
 <div align="center">
-<a href="https://github.com/steelcodeteam" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/steelcodeteam" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/rudahee" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/steelcodeteam" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-   <br/>
-  <br/>
-  <div align="center">
-  <b>Our most important medias:</b>
-  </div>
-   <br/>
-<div align="center">
-  <a href="https://twitch.tv/steelcodeteam" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/YHqMTRYAMT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steelcodeteam)
+[![Discord](https://img.shields.io/badge/Discord-2C2C2A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YHqMTRYAMT)
+[![Twitch](https://img.shields.io/badge/Twitch-2C2C2A?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/steelcodeteam)
+[![Twitter](https://img.shields.io/badge/Twitter-2C2C2A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/steelcodeteam)
+[![YouTube](https://img.shields.io/badge/YouTube-2C2C2A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/steelcodeteam)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-2C2C2A?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/steelcodeteam)
+
+<br/>
+
+> *You can support us on Twitch or Ko-fi — any donation helps cover server costs (~120€/year).*
+> *We refund anything beyond our annual budget. We're not here for profit. Thank you* ❤️
+
+<br/>
+
+`[ EOF ]`
+
 </div>
-</div>  
-
-<br />
-
-## Support us  
-<div align="center">
-            <a href="https://ko-fi.com/steelcodeteam" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a>
-  <br/>
-   <br/>
-  <i>You can donate to us on Twitch or Ko-fi, but you won't receive anything in return. You will simply be helping us with the maintenance of the projects, which currently have an approximate cost of 120€. We will refund any donations that exceed our annual budget since we are not profit-driven. Thank you for all your support! :)</i>
-</div>  
-
-<br/>  
